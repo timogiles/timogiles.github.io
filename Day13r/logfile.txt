@@ -1,0 +1,62 @@
+Matthew 25:21   The master was full of praise. 'Well done, my good and faithful servant. You have been faithful in handling this small amount, so now I will give you many more responsibilities. Let's celebrate together!'
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '68bef3d6-492c-45fb-ae28-e1ca124183ef'}}
+execution complete
+loop time: 31.55 seconds
+Mark 9:35   He sat down and called the twelve disciples over to him. Then he said, Anyone who wants to be the first must take last place and be the servant of everyone else.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '43fc1b24-ae29-47da-ac9b-6597c770072f'}}
+execution complete
+loop time: 19.04 seconds
+Mark 10:42   So Jesus called them together and said, You know that in this world kings are tyrants, and officials lord it over the people beneath them.
+Mark 10:43   But among you it should be quite different. Whoever wants to be a leader among you must be your servant,
+Mark 10:44   and whoever wants to be first must be the slave of all.
+Mark 10:45   For even I, the Son of Man, came here not to be served but to serve others, and to give my life as a ransom for many.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '4f7b4353-8773-41d3-966e-db209239079f'}}
+execution complete
+loop time: 19.68 seconds
+Luke 12:41   Peter asked, Lord, is this illustration just for us or for everyone?
+Luke 12:42   And the Lord replied, I'm talking to any faithful, sensible servant to whom the master gives the responsibility of managing his household and feeding his family.
+Luke 12:43   If the master returns and finds that the servant has done a good job, there will be a reward.
+Luke 12:44   I assure you, the master will put that servant in charge of all he owns.
+Luke 12:45   But if the servant thinks, 'My master won't be back for a while,' and begins oppressing the other servants, partying, and getting drunk--
+Luke 12:46   well, the master will return unannounced and unexpected. He will tear the servant apart and banish him with the unfaithful.
+Luke 12:47   The servant will be severely punished, for though he knew his duty, he refused to do it.
+Luke 12:48   But people who are not aware that they are doing wrong will be punished only lightly. Much is required from those to whom much is given, and much more is required from those to whom much more is given.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '35fee00f-f2d7-4edc-a0c6-d5d74a8e27c8'}}
+execution complete
+loop time: 20.12 seconds
+John 12:26   All those who want to be my disciples must come and follow me, because my servants must be where I am. And if they follow me, the Father will honor them.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'c10ed22d-ad92-464c-b35b-12332d9b45a1'}}
+execution complete
+loop time: 20.02 seconds
+Romans 13:1   Obey the government, for God is the one who put it there. All governments have been placed in power by God.
+Romans 13:2   So those who refuse to obey the laws of the land are refusing to obey God, and punishment will follow.
+Romans 13:3   For the authorities do not frighten people who are doing right, but they frighten those who do wrong. So do what they say, and you will get along well.
+Romans 13:4   The authorities are sent by God to help you. But if you are doing something wrong, of course you should be afraid, for you will be punished. The authorities are established by God for that very purpose, to punish those who do wrong.
+Romans 13:5   So you must obey the government for two reasons: to keep from being punished and to keep a clear conscience.
+Romans 13:6   Pay your taxes, too, for these same reasons. For government workers need to be paid so they can keep on doing the work God intended them to do.
+Romans 13:7   Give to everyone what you owe them: Pay your taxes and import duties, and give respect and honor to all to whom it is due.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'b84fb16b-3a3a-4e24-81ab-0aad5dc11a0d'}}
+execution complete
+loop time: 20.72 seconds
+Galatians 5:13   For you have been called to live in freedom--not freedom to satisfy your sinful nature, but freedom to serve one another in love.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '4c2f9276-cb61-4b4c-9a11-fb1b41c5a463'}}
+execution complete
+loop time: 20.38 seconds
+Philippians 2:5   Your attitude should be the same that Christ Jesus had.
+Philippians 2:6   Though he was God, he did not demand and cling to his rights as God.
+Philippians 2:7   He made himself nothing; he took the humble position of a slave and appeared in human form.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '22de25aa-1456-42e4-9f81-a8cda910866a'}}
+execution complete
+loop time: 19.47 seconds
+This script ran for: 171.02 seconds
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'b296773e-f359-4285-9f08-e5a07cae9149'}}
+execution complete
+VRAM clear completed

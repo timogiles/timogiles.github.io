@@ -1,0 +1,117 @@
+John 17:1   When Jesus had finished saying all these things, he looked up to heaven and said, Father, the time has come. Glorify your Son so he can give glory back to you.
+John 17:2   For you have given him authority over everyone in all the earth. He gives eternal life to each one you have given him.
+John 17:3   And this is the way to have eternal life--to know you, the only true God, and Jesus Christ, the one you sent to earth.
+John 17:4   I brought glory to you here on earth by doing everything you told me to do.
+John 17:5   And now, Father, bring me into the glory we shared before the world began.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '658bbd44-9c52-49b1-9594-6f75fd611f2d'}}
+execution complete
+loop time: 34.85 seconds
+John 17:6   I have told these men about you. They were in the world, but then you gave them to me. Actually, they were always yours, and you gave them to me; and they have kept your word.
+John 17:7   Now they know that everything I have is a gift from you,
+John 17:8   for I have passed on to them the words you gave me; and they accepted them and know that I came from you, and they believe you sent me.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'bb35b280-9300-41e1-8139-107d6a2e59d7'}}
+execution complete
+loop time: 21.71 seconds
+John 17:9   My prayer is not for the world, but for those you have given me, because they belong to you.
+John 17:10   And all of them, since they are mine, belong to you; and you have given them back to me, so they are my glory!
+John 17:11   Now I am departing the world; I am leaving them behind and coming to you. Holy Father, keep them and care for them--all those you have given me--so that they will be united just as we are.
+John 17:12   During my time here, I have kept them safe. I guarded them so that not one was lost, except the one headed for destruction, as the Scriptures foretold.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'ed16bbb9-1d10-4e20-b116-2b9112651c5c'}}
+execution complete
+loop time: 20.12 seconds
+John 17:13   And now I am coming to you. I have told them many things while I was with them so they would be filled with my joy.
+John 17:14   I have given them your word. And the world hates them because they do not belong to the world, just as I do not.
+John 17:15   I'm not asking you to take them out of the world, but to keep them safe from the evil one.
+John 17:16   They are not part of this world any more than I am.
+John 17:17   Make them pure and holy by teaching them your words of truth.
+John 17:18   As you sent me into the world, I am sending them into the world.
+John 17:19   And I give myself entirely to you so they also might be entirely yours.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'e457290f-ae04-477e-ada3-91570d2c55c1'}}
+execution complete
+loop time: 22.01 seconds
+John 17:20   I am praying not only for these disciples but also for all who will ever believe in me because of their testimony.
+John 17:21   My prayer for all of them is that they will be one, just as you and I are one, Father--that just as you are in me and I am in you, so they will be in us, and the world will believe you sent me.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'b92f75bf-239a-4a86-b59d-cf22269518ec'}}
+execution complete
+loop time: 20.51 seconds
+John 17:22   I have given them the glory you gave me, so that they may be one, as we are--
+John 17:23   I in them and you in me, all being perfected into one. Then the world will know that you sent me and will understand that you love them as much as you love me.
+John 17:24   Father, I want these whom you've given me to be with me, so they can see my glory. You gave me the glory because you loved me even before the world began!
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '4a0c971c-c2f0-4bd9-8041-f84115b6fa3c'}}
+execution complete
+loop time: 20.33 seconds
+John 17:25   O righteous Father, the world doesn't know you, but I do; and these disciples know you sent me.
+John 17:26   And I have revealed you to them and will keep on revealing you. I will do this so that your love for me may be in them and I in them.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'a31df406-b8a3-42ca-957b-87cba61d0d6e'}}
+execution complete
+loop time: 20.91 seconds
+Psalms 19:14   May the words of my mouth and the thoughts of my heart be pleasing to you, O LORD, my rock and my redeemer.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '355adbda-8935-4418-bc6a-c8ae5c864388'}}
+execution complete
+loop time: 20.42 seconds
+1 Peter 5:6   So humble yourselves under the mighty power of God, and in his good time he will honor you.
+1 Peter 5:7   Give all your worries and cares to God, for he cares about what happens to you.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '97557212-9ba9-4040-bfb0-cd3e4557cc36'}}
+execution complete
+loop time: 20.58 seconds
+1 Corinthians 13:4   Love is patient and kind. Love is not jealous or boastful or proud
+1 Corinthians 13:5   or rude. Love does not demand its own way. Love is not irritable, and it keeps no record of when it has been wronged.
+1 Corinthians 13:6   It is never glad about injustice but rejoices whenever the truth wins out.
+1 Corinthians 13:7   Love never gives up, never loses faith, is always hopeful, and endures through every circumstance.
+1 Corinthians 13:8   Love will last forever, but prophecy and speaking in unknown languages and special knowledge will all disappear.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '9426ed62-e0e7-4e8d-9440-726b579385f1'}}
+execution complete
+loop time: 21.1 seconds
+Ephesians 4:2   Be humble and gentle. Be patient with each other, making allowance for each other's faults because of your love.
+Ephesians 4:3   Always keep yourselves united in the Holy Spirit, and bind yourselves together with peace.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '556cb61a-2c4e-45f8-a211-d32d0272e462'}}
+execution complete
+loop time: 21.29 seconds
+Proverbs 22:6   Teach your children to choose the right path, and when they are older, they will remain upon it.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '794711ab-691b-4e92-8380-f240782247d2'}}
+execution complete
+loop time: 21.53 seconds
+Ephesians 6:1   Children, obey your parents because you belong to the Lord, for this is the right thing to do.
+Ephesians 6:2   Honor your father and mother. This is the first of the Ten Commandments that ends with a promise.
+Ephesians 6:3   And this is the promise: If you honor your father and mother, you will live a long life, full of blessing.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '1058ec78-e7ed-468c-8bc4-68483da08589'}}
+execution complete
+loop time: 20.47 seconds
+Proverbs 13:20   Whoever walks with the wise will become wise; whoever walks with fools will suffer harm.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'd4692980-cd6d-4661-941b-8bba091b94d5'}}
+execution complete
+loop time: 20.32 seconds
+John 15:13   And here is how to measure it--the greatest love is shown when people lay down their lives for their friends.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '105a1a9c-d31f-42d1-a4a5-04b251a75496'}}
+execution complete
+loop time: 20.61 seconds
+Colossians 3:23   Work hard and cheerfully at whatever you do, as though you were working for the Lord rather than for people.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '23c6850e-9e54-4450-a632-919dfe1fc50b'}}
+execution complete
+loop time: 21.03 seconds
+Hebrews 10:24   Think of ways to encourage one another to outbursts of love and good deeds.
+Hebrews 10:25   And let us not neglect our meeting together, as some people do, but encourage and warn each other, especially now that the day of his coming back again is drawing near.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '0bd73aeb-31ca-4a72-9361-6d1e018fc6c4'}}
+execution complete
+loop time: 20.71 seconds
+This script ran for: 368.56 seconds
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'c392a9a6-55c6-4b25-ac10-a117a5ef2fa6'}}
+execution complete
+VRAM clear completed

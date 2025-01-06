@@ -1,0 +1,100 @@
+Proverbs 11:13   A gossip goes around revealing secrets, but those who are trustworthy can keep a confidence.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '60e0564c-43d2-4766-a79b-5c95a891d532'}}
+execution complete
+loop time: 34.94 seconds
+Proverbs 13:3   Those who control their tongue will have a long life; a quick retort can ruin everything.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '729968ee-8dc1-4b43-867f-5ca081636c03'}}
+execution complete
+loop time: 21.54 seconds
+Proverbs 15:1   A gentle answer turns away wrath, but harsh words stir up anger.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '901c5ba9-95ae-403a-b106-eebb061bb644'}}
+execution complete
+loop time: 21.63 seconds
+Proverbs 15:4   Gentle words bring life and health; a deceitful tongue crushes the spirit.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '78023e33-e253-4317-90c8-9697eda581f9'}}
+execution complete
+loop time: 20.5 seconds
+Proverbs 17:28   Even fools are thought to be wise when they keep silent; when they keep their mouths shut, they seem intelligent.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '97f7c121-8e48-4c91-9332-3403d771f86e'}}
+execution complete
+loop time: 20.22 seconds
+Proverbs 18:21   Those who love to talk will experience the consequences, for the tongue can kill or nourish life.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '3acf0e0c-2ff6-41a9-beb5-a830272251cd'}}
+execution complete
+loop time: 20.32 seconds
+Matthew 12:36   And I tell you this, that you must give an account on judgment day of every idle word you speak.
+Matthew 12:37   The words you say now reflect your fate then; either you will be justified by them or you will be condemned.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'c8932b4a-8c4b-48cb-8f32-2fecd70d462b'}}
+execution complete
+loop time: 20.87 seconds
+Mark 11:23   I assure you that you can say to this mountain, 'May God lift you up and throw you into the sea,' and your command will be obeyed. All that's required is that you really believe and do not doubt in your heart.
+Mark 11:24   Listen to me! You can pray for anything, and if you believe, you will have it.
+Mark 11:25   But when you are praying, first forgive anyone you are holding a grudge against, so that your Father in heaven will forgive your sins, too. 
+Mark 11:26   See Footnote
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'a8f82afb-438e-4384-8068-2aefa6922c94'}}
+execution complete
+loop time: 21.32 seconds
+Luke 6:45   A good person produces good deeds from a good heart, and an evil person produces evil deeds from an evil heart. Whatever is in your heart determines what you say.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '0410c25c-36aa-4cb3-bfef-49e3aa21cc07'}}
+execution complete
+loop time: 21.03 seconds
+Ephesians 4:29   Don't use foul or abusive language. Let everything you say be good and helpful, so that your words will be an encouragement to those who hear them.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'b67eeec6-2875-412b-8055-9d1638b451c4'}}
+execution complete
+loop time: 20.7 seconds
+Colossians 4:6   Let your conversation be gracious and effective so that you will have the right answer for everyone.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '3fe9453b-a3b0-4ea4-8d4b-423a546b143b'}}
+execution complete
+loop time: 21.11 seconds
+James 3:1   Dear brothers and sisters, not many of you should become teachers in the church, for we who teach will be judged by God with greater strictness.
+James 3:2   We all make many mistakes, but those who control their tongues can also control themselves in every other way.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '8662233b-1f2d-4ca5-a050-6119b8533711'}}
+execution complete
+loop time: 20.55 seconds
+James 3:3   We can make a large horse turn around and go wherever we want by means of a small bit in its mouth.
+James 3:4   And a tiny rudder makes a huge ship turn wherever the pilot wants it to go, even though the winds are strong.
+James 3:5   So also, the tongue is a small thing, but what enormous damage it can do. A tiny spark can set a great forest on fire.
+James 3:6   And the tongue is a flame of fire. It is full of wickedness that can ruin your whole life. It can turn the entire course of your life into a blazing flame of destruction, for it is set on fire by hell itself.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'd7620e62-a08a-4a0d-8741-aa850e978e68'}}
+execution complete
+loop time: 21.75 seconds
+James 3:7   People can tame all kinds of animals and birds and reptiles and fish,
+James 3:8   but no one can tame the tongue. It is an uncontrollable evil, full of deadly poison.
+James 3:9   Sometimes it praises our Lord and Father, and sometimes it breaks out into curses against those who have been made in the image of God.
+James 3:10   And so blessing and cursing come pouring out of the same mouth. Surely, my brothers and sisters, this is not right!
+James 3:11   Does a spring of water bubble out with both fresh water and bitter water?
+James 3:12   Can you pick olives from a fig tree or figs from a grapevine? No, and you can't draw fresh water from a salty pool.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '3a0c5e87-f4e3-4f8a-adec-494ac2b65692'}}
+execution complete
+loop time: 21.37 seconds
+1 Peter 2:1   So get rid of all malicious behavior and deceit. Don't just pretend to be good! Be done with hypocrisy and jealousy and backstabbing.
+1 Peter 2:2   You must crave pure spiritual milk so that you can grow into the fullness of your salvation. Cry out for this nourishment as a baby cries for milk,
+1 Peter 2:3   now that you have had a taste of the Lord's kindness.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '7e2382ce-50e6-48e2-8278-edcd63b0749d'}}
+execution complete
+loop time: 20.64 seconds
+1 Peter 3:9   Don't repay evil for evil. Don't retaliate when people say unkind things about you. Instead, pay them back with a blessing. That is what God wants you to do, and he will bless you for it.
+1 Peter 3:10   For the Scriptures say, If you want a happy life and good days, keep your tongue from speaking evil, and keep your lips from telling lies.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'd37969cd-5459-4d01-86ee-9f3cd359ee5c'}}
+execution complete
+loop time: 20.23 seconds
+This script ran for: 349.03 seconds
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'd61cb879-b942-4505-abc4-622eface9ebd'}}
+execution complete
+VRAM clear completed

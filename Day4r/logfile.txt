@@ -1,0 +1,179 @@
+Deuteronomy 11:1   You must love the LORD your God and obey all his requirements, laws, regulations, and commands.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'aac5127e-ce14-4f38-b01b-45294f225da0'}}
+execution complete
+loop time: 32.09 seconds
+Joshua 1:8   Study this Book of the Law continually. Meditate on it day and night so you may be sure to obey all that is written in it. Only then will you succeed.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '207563c5-753e-4b9a-921f-3f2e071d7bc4'}}
+execution complete
+loop time: 19.32 seconds
+Psalms 1:1   Oh, the joys of those who do not follow the advice of the wicked, or stand around with sinners, or join in with scoffers.
+Psalms 1:2   But they delight in doing everything the LORD wants; day and night they think about his law.
+Psalms 1:3   They are like trees planted along the riverbank, bearing fruit each season without fail. Their leaves never wither, and in all they do, they prosper.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '5f61ddcd-9899-4338-8f32-22bae0138ea6'}}
+execution complete
+loop time: 20.06 seconds
+Psalms 33:6   The LORD merely spoke, and the heavens were created. He breathed the word, and all the stars were born.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'aa26e417-47aa-4399-996b-69bd6689238a'}}
+execution complete
+loop time: 19.07 seconds
+Psalms 33:9   For when he spoke, the world began! It appeared at his command.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'e6a4bd4e-4c1b-44fb-a736-5f57d3d4efcb'}}
+execution complete
+loop time: 19.26 seconds
+Psalms 119:11   I have hidden your word in my heart, that I might not sin against you.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '70eb3699-5ea4-4ab8-a151-086f62faae66'}}
+execution complete
+loop time: 18.95 seconds
+Psalms 119:89   Forever, O LORD, your word stands firm in heaven.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'a086c9d7-511c-4145-9cf6-128880e9327d'}}
+execution complete
+loop time: 19.23 seconds
+Psalms 138:2   I bow before your holy Temple as I worship. I will give thanks to your name for your unfailing love and faithfulness, because your promises are backed by all the honor of your name.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'ce80865d-b212-4594-a19d-facb4a1f8645'}}
+execution complete
+loop time: 19.47 seconds
+Isaiah 40:8   The grass withers, and the flowers fade, but the word of our God stands forever.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '695279e4-a9d3-442b-99d9-f0ce4f9c1ff7'}}
+execution complete
+loop time: 19.13 seconds
+Isaiah 55:10   The rain and snow come down from the heavens and stay on the ground to water the earth. They cause the grain to grow, producing seed for the farmer and bread for the hungry.
+Isaiah 55:11   It is the same with my word. I send it out, and it always produces fruit. It will accomplish all I want it to, and it will prosper everywhere I send it.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '7269f4ed-dde9-441d-b389-55b4367bad35'}}
+execution complete
+loop time: 18.81 seconds
+Isaiah 43:26   Let us review the situation together, and you can present your case if you have one.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '1cf07a96-5a56-4449-aa4b-5135fb9e4d9f'}}
+execution complete
+loop time: 19.38 seconds
+Matthew 24:35   Heaven and earth will disappear, but my words will remain forever.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'fbfaa06b-dd83-4d0f-b083-6c135258e2df'}}
+execution complete
+loop time: 19.27 seconds
+John 1:1   In the beginning the Word already existed. He was with God, and he was God.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '62d6060f-2897-439c-917f-b02cf639ec36'}}
+execution complete
+loop time: 19.54 seconds
+John 1:14   So the Word became human and lived here on earth among us. He was full of unfailing love and faithfulness. And we have seen his glory, the glory of the only Son of the Father.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '1c46fef5-26af-4d66-9898-3cdfe1b3b50b'}}
+execution complete
+loop time: 19.08 seconds
+John 8:31   Jesus said to the people who believed in him, You are truly my disciples if you keep obeying my teachings.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '62c2ca6d-041b-48af-8be7-397255588980'}}
+execution complete
+loop time: 20.2 seconds
+John 14:15   If you love me, obey my commandments.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '5fe746ee-7328-4482-a80e-dd979225c7c9'}}
+execution complete
+loop time: 19.06 seconds
+John 14:21   Those who obey my commandments are the ones who love me. And because they love me, my Father will love them, and I will love them. And I will reveal myself to each one of them.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '9fd08449-8cb7-45c8-9e16-0a7a3a47b802'}}
+execution complete
+loop time: 19.01 seconds
+John 14:23   Jesus replied, All those who love me will do what I say. My Father will love them, and we will come to them and live with them.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'e5a711dd-1b9d-4719-a674-e2091354eca9'}}
+execution complete
+loop time: 19.07 seconds
+John 15:3   You have already been pruned for greater fruitfulness by the message I have given you.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '16b2f8e9-795e-43fd-a3e5-5146eb0dcf78'}}
+execution complete
+loop time: 18.89 seconds
+Romans 10:17   Yet faith comes from listening to this message of good news--the Good News about Christ.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '94a8b6c5-1057-495a-b412-45acf9f0805a'}}
+execution complete
+loop time: 19.04 seconds
+Ephesians 5:25   And you husbands must love your wives with the same love Christ showed the church. He gave up his life for her
+Ephesians 5:26   to make her holy and clean, washed by baptism and God's word.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'a498e576-c680-4963-8935-f02a9a39f93f'}}
+execution complete
+loop time: 19.57 seconds
+1 Thessalonians 2:13   And we will never stop thanking God that when we preached his message to you, you didn't think of the words we spoke as being just our own. You accepted what we said as the very word of God--which, of course, it was. And this word continues to work in you who believe.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'a3affeb4-2568-423f-aaf7-12a9e7b69176'}}
+execution complete
+loop time: 19.21 seconds
+2 Timothy 3:16   All Scripture is inspired by God and is useful to teach us what is true and to make us realize what is wrong in our lives. It straightens us out and teaches us to do what is right.
+2 Timothy 3:17   It is God's way of preparing us in every way, fully equipped for every good thing God wants us to do.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '393e61db-e5c1-448c-ab37-8239afb28440'}}
+execution complete
+loop time: 20.23 seconds
+Hebrews 2:1   So we must listen very carefully to the truth we have heard, or we may drift away from it.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'ea988ff2-fdf5-45ab-8922-80284e7ac352'}}
+execution complete
+loop time: 19.25 seconds
+Hebrews 4:12   For the word of God is full of living power. It is sharper than the sharpest knife, cutting deep into our innermost thoughts and desires. It exposes us for what we really are.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'e4e8bd2e-9972-4174-8ccb-2f8c2bc6782a'}}
+execution complete
+loop time: 19.1 seconds
+Hebrews 11:3   By faith we understand that the entire universe was formed at God's command, that what we now see did not come from anything that can be seen.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '6f12a6e7-edc0-4647-beb6-caf73d07606a'}}
+execution complete
+loop time: 18.81 seconds
+James 1:21   So get rid of all the filth and evil in your lives, and humbly accept the message God has planted in your hearts, for it is strong enough to save your souls.
+James 1:22   And remember, it is a message to obey, not just to listen to. If you don't obey, you are only fooling yourself.
+James 1:23   For if you just listen and don't obey, it is like looking at your face in a mirror but doing nothing to improve your appearance.
+James 1:24   You see yourself, walk away, and forget what you look like.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '6b693a15-ec31-468a-a4d0-a8b71d227e9f'}}
+execution complete
+loop time: 20.07 seconds
+1 Peter 1:25   But the word of the Lord will last forever. And that word is the Good News that was preached to you.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '86ff6f27-ca6a-44bf-9810-02c5919a1b37'}}
+execution complete
+loop time: 19.46 seconds
+1 John 2:3   And how can we be sure that we belong to him? By obeying his commandments.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'b155099a-75d4-4d1a-aeb4-7fd77d1f4f48'}}
+execution complete
+loop time: 19.08 seconds
+1 John 2:14   I have written to you, children, because you have known the Father. I have written to you who are mature because you know Christ, the one who is from the beginning. I have written to you who are young because you are strong with God's word living in your hearts, and you have won your battle with Satan.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '81250fc9-d186-453b-8986-bbf5791551d3'}}
+execution complete
+loop time: 20.36 seconds
+1 John 5:3   Loving God means keeping his commandments, and really, that isn't difficult.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'bdce52dc-6a43-4730-844e-f92d83c66560'}}
+execution complete
+loop time: 19.1 seconds
+Revelation 3:8   I know all the things you do, and I have opened a door for you that no one can shut. You have little strength, yet you obeyed my word and did not deny me.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '7dce0621-0342-4626-9eba-f64431a6aba3'}}
+execution complete
+loop time: 19.24 seconds
+Revelation 19:11   Then I saw heaven opened, and a white horse was standing there. And the one sitting on the horse was named Faithful and True. For he judges fairly and then goes to war.
+Revelation 19:12   His eyes were bright like flames of fire, and on his head were many crowns. A name was written on him, and only he knew what it meant.
+Revelation 19:13   He was clothed with a robe dipped in blood, and his title was the Word of God.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'e9ca19f3-4940-4cd7-bb0c-184b4ef3cff7'}}
+execution complete
+loop time: 19.37 seconds
+This script ran for: 650.93 seconds
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'fe8cfced-3d17-4943-b430-9a0710c63931'}}
+execution complete
+VRAM clear completed

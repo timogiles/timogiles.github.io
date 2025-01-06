@@ -1,0 +1,87 @@
+Deuteronomy 8:18   Always remember that it is the LORD your God who gives you power to become rich, and he does it to fulfill the covenant he made with your ancestors.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '5e86c59f-f3fd-4c80-bb05-d7e9bcab1f2f'}}
+execution complete
+loop time: 32.23 seconds
+Psalms 1:1   Oh, the joys of those who do not follow the advice of the wicked, or stand around with sinners, or join in with scoffers.
+Psalms 1:2   But they delight in doing everything the LORD wants; day and night they think about his law.
+Psalms 1:3   They are like trees planted along the riverbank, bearing fruit each season without fail. Their leaves never wither, and in all they do, they prosper.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'b89b9fa0-65a5-455d-bfd5-6136c2c50150'}}
+execution complete
+loop time: 20.09 seconds
+Psalms 37:25   Once I was young, and now I am old. Yet I have never seen the godly forsaken, nor seen their children begging for bread.
+Psalms 37:26   The godly always give generous loans to others, and their children are a blessing.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'c87e2386-0baf-4154-8561-97b0d3ead98d'}}
+execution complete
+loop time: 20.26 seconds
+Psalms 112:1   Praise the LORD! Happy are those who fear the LORD. Yes, happy are those who delight in doing what he commands.
+Psalms 112:2   Their children will be successful everywhere; an entire generation of godly people will be blessed.
+Psalms 112:3   They themselves will be wealthy, and their good deeds will never be forgotten.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'c35e772f-e57d-4e98-a2c0-2986ccbbb05f'}}
+execution complete
+loop time: 18.78 seconds
+Proverbs 3:9   Honor the LORD with your wealth and with the best part of everything your land produces.
+Proverbs 3:10   Then he will fill your barns with grain, and your vats will overflow with the finest wine.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '71585bf0-eb09-4475-9032-ff65ccf74246'}}
+execution complete
+loop time: 19.34 seconds
+Proverbs 10:22   The blessing of the LORD makes a person rich, and he adds no sorrow with it.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '5d7549f8-f9e6-49bd-b95b-d188bec8a926'}}
+execution complete
+loop time: 19.12 seconds
+Isaiah 48:17   The LORD, your Redeemer, the Holy One of Israel, says: I am the LORD your God, who teaches you what is good and leads you along the paths you should follow.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '0e37320e-b602-4ed0-ab5d-133762a90213'}}
+execution complete
+loop time: 18.92 seconds
+Matthew 6:28   And why worry about your clothes? Look at the lilies and how they grow. They don't work or make their clothing,
+Matthew 6:29   yet Solomon in all his glory was not dressed as beautifully as they are.
+Matthew 6:30   And if God cares so wonderfully for flowers that are here today and gone tomorrow, won't he more surely care for you? You have so little faith!
+Matthew 6:31   So don't worry about having enough food or drink or clothing.
+Matthew 6:32   Why be like the pagans who are so deeply concerned about these things? Your heavenly Father already knows all your needs,
+Matthew 6:33   and he will give you all you need from day to day if you live for him and make the Kingdom of God your primary concern.
+Matthew 6:34   So don't worry about tomorrow, for tomorrow will bring its own worries. Today's trouble is enough for today.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'f93200a5-fe62-4353-b5eb-57c2f20af8e0'}}
+execution complete
+loop time: 22.15 seconds
+Luke 6:38   If you give, you will receive. Your gift will return to you in full measure, pressed down, shaken together to make room for more, and running over. Whatever measure you use in giving--large or small--it will be used to measure what is given back to you.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '72a7d7c0-fe72-44a8-94bb-53083f8a29bf'}}
+execution complete
+loop time: 18.95 seconds
+2 Corinthians 9:6   Remember this--a farmer who plants only a few seeds will get a small crop. But the one who plants generously will get a generous crop.
+2 Corinthians 9:7   You must each make up your own mind as to how much you should give. Don't give reluctantly or in response to pressure. For God loves the person who gives cheerfully.
+2 Corinthians 9:8   And God will generously provide all you need. Then you will always have everything you need and plenty left over to share with others.
+2 Corinthians 9:9   As the Scriptures say, Godly people give generously to the poor. Their good deeds will never be forgotten.
+2 Corinthians 9:10   For God is the one who gives seed to the farmer and then bread to eat. In the same way, he will give you many opportunities to do good, and he will produce a great harvest of generosity in you.
+2 Corinthians 9:11   Yes, you will be enriched so that you can give even more generously. And when we take your gifts to those who need them, they will break out in thanksgiving to God.
+2 Corinthians 9:12   So two good things will happen--the needs of the Christians in Jerusalem will be met, and they will joyfully express their thanksgiving to God.
+2 Corinthians 9:13   You will be glorifying God through your generous gifts. For your generosity to them will prove that you are obedient to the Good News of Christ.
+2 Corinthians 9:14   And they will pray for you with deep affection because of the wonderful grace of God shown through you.
+2 Corinthians 9:15   Thank God for his Son--a gift too wonderful for words!
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'bed022de-a744-412a-9884-e17aca5caca0'}}
+execution complete
+loop time: 19.43 seconds
+Philippians 4:19   And this same God who takes care of me will supply all your needs from his glorious riches, which have been given to us in Christ Jesus.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '5c6ee24c-ea9c-4498-a61a-f06ef041832a'}}
+execution complete
+loop time: 20.15 seconds
+1 Timothy 6:17   Tell those who are rich in this world not to be proud and not to trust in their money, which will soon be gone. But their trust should be in the living God, who richly gives us all we need for our enjoyment.
+1 Timothy 6:18   Tell them to use their money to do good. They should be rich in good works and should give generously to those in need, always being ready to share with others whatever God has given them.
+1 Timothy 6:19   By doing this they will be storing up their treasure as a good foundation for the future so that they may take hold of real life.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'acdbb449-b369-4ef5-86c3-2b371899a358'}}
+execution complete
+loop time: 20.7 seconds
+This script ran for: 250.19 seconds
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '528c9ab0-5aef-45b3-bed5-6b0f3edb2cf6'}}
+execution complete
+VRAM clear completed

@@ -1,0 +1,365 @@
+Psalms 25:9   He leads the humble in what is right, teaching them his way.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'cee0f45a-8388-4dd6-a4e6-fde9aadee575'}}
+execution complete
+loop time: 31.74 seconds
+Psalms 25:12   Who are those who fear the LORD? He will show them the path they should choose.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '03290bbb-f50a-49cd-a682-6ca8b58cd8c5'}}
+execution complete
+loop time: 18.78 seconds
+Proverbs 2:6   For the LORD grants wisdom! From his mouth come knowledge and understanding.
+Proverbs 2:7   He grants a treasure of good sense to the godly. He is their shield, protecting those who walk with integrity.
+Proverbs 2:8   He guards the paths of justice and protects those who are faithful to him.
+Proverbs 2:9   Then you will understand what is right, just, and fair, and you will know how to find the right course of action every time.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'd85eea85-c282-4216-a735-d5c924333e01'}}
+execution complete
+loop time: 19.57 seconds
+Proverbs 3:5   Trust in the LORD with all your heart; do not depend on your own understanding.
+Proverbs 3:6   Seek his will in all you do, and he will direct your paths.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'de3fae6b-6d84-4e69-bd65-58abfe35d92a'}}
+execution complete
+loop time: 19.47 seconds
+Proverbs 16:9   We can make our plans, but the LORD determines our steps.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '9e09c702-d3c8-4f8e-8174-8e0fd0fa4b30'}}
+execution complete
+loop time: 19.26 seconds
+Jeremiah 29:11   For I know the plans I have for you, says the LORD. They are plans for good and not for disaster, to give you a future and a hope.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '6a3c85ce-373e-4fa1-8af2-3e2fc213b0bc'}}
+execution complete
+loop time: 19.51 seconds
+John 14:16   And I will ask the Father, and he will give you another Counselor, who will never leave you.
+John 14:17   He is the Holy Spirit, who leads into all truth. The world at large cannot receive him, because it isn't looking for him and doesn't recognize him. But you do, because he lives with you now and later will be in you.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'd64ab2c3-0fa1-47cd-8b5f-c462a7360e65'}}
+execution complete
+loop time: 20.67 seconds
+John 14:26   But when the Father sends the Counselor as my representative--and by the Counselor I mean the Holy Spirit--he will teach you everything and will remind you of everything I myself have told you.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'd55c3b5e-8d2f-4191-ab79-c23e9028243c'}}
+execution complete
+loop time: 19.67 seconds
+John 15:26   But I will send you the Counselor--the Spirit of truth. He will come to you from the Father and will tell you all about me.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '21aacb3a-789f-4262-bfec-f0c11c44fe86'}}
+execution complete
+loop time: 18.95 seconds
+John 16:7   But it is actually best for you that I go away, because if I don't, the Counselor won't come. If I do go away, he will come because I will send him to you.
+John 16:8   And when he comes, he will convince the world of its sin, and of God's righteousness, and of the coming judgment.
+John 16:9   The world's sin is unbelief in me.
+John 16:10   Righteousness is available because I go to the Father, and you will see me no more.
+John 16:11   Judgment will come because the prince of this world has already been judged.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'a9058560-0f67-410b-82e3-53f7755e8195'}}
+execution complete
+loop time: 19.52 seconds
+John 16:13   When the Spirit of truth comes, he will guide you into all truth. He will not be presenting his own ideas; he will be telling you what he has heard. He will tell you about the future.
+John 16:14   He will bring me glory by revealing to you whatever he receives from me.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'cc31a25f-1f74-493f-8c1a-648cbc274ca6'}}
+execution complete
+loop time: 20.6 seconds
+Acts 2:1   On the day of Pentecost, seven weeks after Jesus' resurrection, the believers were meeting together in one place.
+Acts 2:2   Suddenly, there was a sound from heaven like the roaring of a mighty windstorm in the skies above them, and it filled the house where they were meeting.
+Acts 2:3   Then, what looked like flames or tongues of fire appeared and settled on each of them.
+Acts 2:4   And everyone present was filled with the Holy Spirit and began speaking in other languages, as the Holy Spirit gave them this ability.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'b646e3b9-f9de-43d6-b73c-6c4e043524db'}}
+execution complete
+loop time: 19.57 seconds
+Acts 2:5   Godly Jews from many nations were living in Jerusalem at that time.
+Acts 2:6   When they heard this sound, they came running to see what it was all about, and they were bewildered to hear their own languages being spoken by the believers.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'e1d0964d-b7f6-4b3d-9888-879892de2cbd'}}
+execution complete
+loop time: 18.9 seconds
+Acts 2:7   They were beside themselves with wonder. How can this be? they exclaimed. These people are all from Galilee,
+Acts 2:8   and yet we hear them speaking the languages of the lands where we were born!
+Acts 2:9   Here we are--Parthians, Medes, Elamites, people from Mesopotamia, Judea, Cappadocia, Pontus, the province of Asia,
+Acts 2:10   Phrygia, Pamphylia, Egypt, and the areas of Libya toward Cyrene, visitors from Rome (both Jews and converts to Judaism),
+Acts 2:11   Cretans, and Arabians. And we all hear these people speaking in our own languages about the wonderful things God has done!
+Acts 2:12   They stood there amazed and perplexed. What can this mean? they asked each other.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '0365dc57-e091-46ae-8d19-b1a655c83c42'}}
+execution complete
+loop time: 20.3 seconds
+Acts 2:13   But others in the crowd were mocking. They're drunk, that's all! they said.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '7d6d3726-d9d8-44aa-a080-edcf5221d41b'}}
+execution complete
+loop time: 19.12 seconds
+Acts 2:14   Then Peter stepped forward with the eleven other apostles and shouted to the crowd, Listen carefully, all of you, fellow Jews and residents of Jerusalem! Make no mistake about this.
+Acts 2:15   Some of you are saying these people are drunk. It isn't true! It's much too early for that. People don't get drunk by nine o'clock in the morning.
+Acts 2:16   No, what you see this morning was predicted centuries ago by the prophet Joel:
+Acts 2:17   'In the last days, God said, I will pour out my Spirit upon all people. Your sons and daughters will prophesy, your young men will see visions, and your old men will dream dreams.
+Acts 2:18   In those days I will pour out my Spirit upon all my servants, men and women alike, and they will prophesy.
+Acts 2:19   And I will cause wonders in the heavens above and signs on the earth below--blood and fire and clouds of smoke.
+Acts 2:20   The sun will be turned into darkness, and the moon will turn bloodred, before that great and glorious day of the Lord arrives.
+Acts 2:21   And anyone who calls on the name of the Lord will be saved.'
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'de519478-7cd5-4285-aa19-21903781a9f0'}}
+execution complete
+loop time: 20.77 seconds
+Acts 2:22   People of Israel, listen! God publicly endorsed Jesus of Nazareth by doing wonderful miracles, wonders, and signs through him, as you well know.
+Acts 2:23   But you followed God's prearranged plan. With the help of lawless Gentiles, you nailed him to the cross and murdered him.
+Acts 2:24   However, God released him from the horrors of death and raised him back to life again, for death could not keep him in its grip.
+Acts 2:25   King David said this about him: 'I know the Lord is always with me. I will not be shaken, for he is right beside me.
+Acts 2:26   No wonder my heart is filled with joy, and my mouth shouts his praises! My body rests in hope.
+Acts 2:27   For you will not leave my soul among the dead or allow your Holy One to rot in the grave.
+Acts 2:28   You have shown me the way of life, and you will give me wonderful joy in your presence.'
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'f065e093-3963-4966-9729-d89c6a59bfd0'}}
+execution complete
+loop time: 20.77 seconds
+Acts 2:29   Dear brothers, think about this! David wasn't referring to himself when he spoke these words I have quoted, for he died and was buried, and his tomb is still here among us.
+Acts 2:30   But he was a prophet, and he knew God had promised with an oath that one of David's own descendants would sit on David's throne as the Messiah.
+Acts 2:31   David was looking into the future and predicting the Messiah's resurrection. He was saying that the Messiah would not be left among the dead and that his body would not rot in the grave.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '44b01b2c-584a-42b8-bac1-feeedb9eac78'}}
+execution complete
+loop time: 19.22 seconds
+Acts 2:32   This prophecy was speaking of Jesus, whom God raised from the dead, and we all are witnesses of this.
+Acts 2:33   Now he sits on the throne of highest honor in heaven, at God's right hand. And the Father, as he had promised, gave him the Holy Spirit to pour out upon us, just as you see and hear today.
+Acts 2:34   For David himself never ascended into heaven, yet he said, 'The LORD said to my Lord, Sit in honor at my right hand
+Acts 2:35   until I humble your enemies, making them a footstool under your feet.'
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '5edc11bd-af7a-44be-9946-7ac194d45779'}}
+execution complete
+loop time: 19.41 seconds
+Acts 2:36   So let it be clearly known by everyone in Israel that God has made this Jesus whom you crucified to be both Lord and Messiah!
+Acts 2:37   Peter's words convicted them deeply, and they said to him and to the other apostles, Brothers, what should we do?
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'f9e89a20-7641-486a-b0d3-dfea287183d9'}}
+execution complete
+loop time: 19.58 seconds
+Acts 2:38   Peter replied, Each of you must turn from your sins and turn to God, and be baptized in the name of Jesus Christ for the forgiveness of your sins. Then you will receive the gift of the Holy Spirit.
+Acts 2:39   This promise is to you and to your children, and even to the Gentiles--all who have been called by the Lord our God.
+Acts 2:40   Then Peter continued preaching for a long time, strongly urging all his listeners, Save yourselves from this generation that has gone astray!
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'aae5c283-6938-4f56-92c5-b32f39a337c6'}}
+execution complete
+loop time: 20.65 seconds
+Acts 2:41   Those who believed what Peter said were baptized and added to the church--about three thousand in all.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'c3393d40-c575-4ef4-8186-00af93dc4139'}}
+execution complete
+loop time: 19.05 seconds
+Acts 2:42   They joined with the other believers and devoted themselves to the apostles' teaching and fellowship, sharing in the Lord's Supper and in prayer.
+Acts 2:43   A deep sense of awe came over them all, and the apostles performed many miraculous signs and wonders.
+Acts 2:44   And all the believers met together constantly and shared everything they had.
+Acts 2:45   They sold their possessions and shared the proceeds with those in need.
+Acts 2:46   They worshiped together at the Temple each day, met in homes for the Lord's Supper, and shared their meals with great joy and generosity--
+Acts 2:47   all the while praising God and enjoying the goodwill of all the people. And each day the Lord added to their group those who were being saved.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '41843fc1-ea82-4722-846a-b69333718879'}}
+execution complete
+loop time: 20.77 seconds
+1 Corinthians 12:1   And now, dear brothers and sisters, I will write about the special abilities the Holy Spirit gives to each of us, for I must correct your misunderstandings about them.
+1 Corinthians 12:2   You know that when you were still pagans you were led astray and swept along in worshiping speechless idols.
+1 Corinthians 12:3   So I want you to know how to discern what is truly from God: No one speaking by the Spirit of God can curse Jesus, and no one is able to say, Jesus is Lord, except by the Holy Spirit.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '655cd30f-7581-4a86-ad84-1c3866a5259d'}}
+execution complete
+loop time: 21.79 seconds
+1 Corinthians 12:4   Now there are different kinds of spiritual gifts, but it is the same Holy Spirit who is the source of them all.
+1 Corinthians 12:5   There are different kinds of service in the church, but it is the same Lord we are serving.
+1 Corinthians 12:6   There are different ways God works in our lives, but it is the same God who does the work through all of us.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '237131fc-8740-4562-b6be-158f75565beb'}}
+execution complete
+loop time: 18.92 seconds
+1 Corinthians 12:7   A spiritual gift is given to each of us as a means of helping the entire church.
+1 Corinthians 12:8   To one person the Spirit gives the ability to give wise advice; to another he gives the gift of special knowledge.
+1 Corinthians 12:9   The Spirit gives special faith to another, and to someone else he gives the power to heal the sick.
+1 Corinthians 12:10   He gives one person the power to perform miracles, and to another the ability to prophesy. He gives someone else the ability to know whether it is really the Spirit of God or another spirit that is speaking. Still another person is given the ability to speak in unknown languages, and another is given the ability to interpret what is being said.
+1 Corinthians 12:11   It is the one and only Holy Spirit who distributes these gifts. He alone decides which gift each person should have.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '47970b74-ef6d-46ac-b500-f111b680f9fe'}}
+execution complete
+loop time: 20.32 seconds
+1 Corinthians 12:12   The human body has many parts, but the many parts make up only one body. So it is with the body of Christ.
+1 Corinthians 12:13   Some of us are Jews, some are Gentiles, some are slaves, and some are free. But we have all been baptized into Christ's body by one Spirit, and we have all received the same Spirit.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'f0597f3c-3f66-498a-8c44-da8c50689852'}}
+execution complete
+loop time: 19.3 seconds
+1 Corinthians 12:14   Yes, the body has many different parts, not just one part.
+1 Corinthians 12:15   If the foot says, I am not a part of the body because I am not a hand, that does not make it any less a part of the body.
+1 Corinthians 12:16   And if the ear says, I am not part of the body because I am only an ear and not an eye, would that make it any less a part of the body?
+1 Corinthians 12:17   Suppose the whole body were an eye--then how would you hear? Or if your whole body were just one big ear, how could you smell anything?
+1 Corinthians 12:18   But God made our bodies with many parts, and he has put each part just where he wants it.
+1 Corinthians 12:19   What a strange thing a body would be if it had only one part!
+1 Corinthians 12:20   Yes, there are many parts, but only one body.
+1 Corinthians 12:21   The eye can never say to the hand, I don't need you. The head can't say to the feet, I don't need you.
+1 Corinthians 12:22   In fact, some of the parts that seem weakest and least important are really the most necessary.
+1 Corinthians 12:23   And the parts we regard as less honorable are those we clothe with the greatest care. So we carefully protect from the eyes of others those parts that should not be seen,
+1 Corinthians 12:24   while other parts do not require this special care. So God has put the body together in such a way that extra honor and care are given to those parts that have less dignity.
+1 Corinthians 12:25   This makes for harmony among the members, so that all the members care for each other equally.
+1 Corinthians 12:26   If one part suffers, all the parts suffer with it, and if one part is honored, all the parts are glad.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '7ae7adda-8054-46be-95c2-0e7a09820e76'}}
+execution complete
+loop time: 22.38 seconds
+1 Corinthians 12:27   Now all of you together are Christ's body, and each one of you is a separate and necessary part of it.
+1 Corinthians 12:28   Here is a list of some of the members that God has placed in the body of Christ: first are apostles, second are prophets, third are teachers, then those who do miracles, those who have the gift of healing, those who can help others, those who can get others to work together, those who speak in unknown languages.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '8a4c8b29-31b1-4b26-afbc-92dbd78072be'}}
+execution complete
+loop time: 20.04 seconds
+1 Corinthians 12:29   Is everyone an apostle? Of course not. Is everyone a prophet? No. Are all teachers? Does everyone have the power to do miracles?
+1 Corinthians 12:30   Does everyone have the gift of healing? Of course not. Does God give all of us the ability to speak in unknown languages? Can everyone interpret unknown languages? No!
+1 Corinthians 12:31   And in any event, you should desire the most helpful gifts. First, however, let me tell you about something else that is better than any of them!
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'b172ee86-ae65-401d-b5f9-af227d3bd625'}}
+execution complete
+loop time: 19.46 seconds
+1 Corinthians 13:1   If I could speak in any language in heaven or on earth but didn't love others, I would only be making meaningless noise like a loud gong or a clanging cymbal.
+1 Corinthians 13:2   If I had the gift of prophecy, and if I knew all the mysteries of the future and knew everything about everything, but didn't love others, what good would I be? And if I had the gift of faith so that I could speak to a mountain and make it move, without love I would be no good to anybody.
+1 Corinthians 13:3   If I gave everything I have to the poor and even sacrificed my body, I could boast about it; but if I didn't love others, I would be of no value whatsoever.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '6d3bced0-3482-4b9d-a5a5-ccf6e7beb69d'}}
+execution complete
+loop time: 20.36 seconds
+1 Corinthians 13:4   Love is patient and kind. Love is not jealous or boastful or proud
+1 Corinthians 13:5   or rude. Love does not demand its own way. Love is not irritable, and it keeps no record of when it has been wronged.
+1 Corinthians 13:6   It is never glad about injustice but rejoices whenever the truth wins out.
+1 Corinthians 13:7   Love never gives up, never loses faith, is always hopeful, and endures through every circumstance.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'c728e07d-ce83-4dbd-829b-258dc71dd391'}}
+execution complete
+loop time: 19.79 seconds
+1 Corinthians 13:8   Love will last forever, but prophecy and speaking in unknown languages and special knowledge will all disappear.
+1 Corinthians 13:9   Now we know only a little, and even the gift of prophecy reveals little!
+1 Corinthians 13:10   But when the end comes, these special gifts will all disappear.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '9d2ba96c-4306-437e-9554-564e8cad90ce'}}
+execution complete
+loop time: 18.75 seconds
+1 Corinthians 13:11   It's like this: When I was a child, I spoke and thought and reasoned as a child does. But when I grew up, I put away childish things.
+1 Corinthians 13:12   Now we see things imperfectly as in a poor mirror, but then we will see everything with perfect clarity. All that I know now is partial and incomplete, but then I will know everything completely, just as God knows me now.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '6321a244-894a-444a-b851-6113b1ea03cf'}}
+execution complete
+loop time: 20.89 seconds
+1 Corinthians 13:13   There are three things that will endure--faith, hope, and love--and the greatest of these is love.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '1701fc88-036d-43d4-b970-5b47d9fd3a67'}}
+execution complete
+loop time: 19.05 seconds
+1 Corinthians 14:1   Let love be your highest goal, but also desire the special abilities the Spirit gives, especially the gift of prophecy.
+1 Corinthians 14:2   For if your gift is the ability to speak in tongues, you will be talking to God but not to people, since they won't be able to understand you. You will be speaking by the power of the Spirit, but it will all be mysterious.
+1 Corinthians 14:3   But one who prophesies is helping others grow in the Lord, encouraging and comforting them.
+1 Corinthians 14:4   A person who speaks in tongues is strengthened personally in the Lord, but one who speaks a word of prophecy strengthens the entire church.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'b2091632-3d44-4f69-a5c9-01b2d9da8761'}}
+execution complete
+loop time: 19.43 seconds
+1 Corinthians 14:5   I wish you all had the gift of speaking in tongues, but even more I wish you were all able to prophesy. For prophecy is a greater and more useful gift than speaking in tongues, unless someone interprets what you are saying so that the whole church can get some good out of it.
+1 Corinthians 14:6   Dear brothers and sisters, if I should come to you talking in an unknown language, how would that help you? But if I bring you some revelation or some special knowledge or some prophecy or some teaching--that is what will help you.
+1 Corinthians 14:7   Even musical instruments like the flute or the harp, though they are lifeless, are examples of the need for speaking in plain language. For no one will recognize the melody unless the notes are played clearly.
+1 Corinthians 14:8   And if the bugler doesn't sound a clear call, how will the soldiers know they are being called to battle?
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'fd710876-ad61-4d18-980e-530d462f2582'}}
+execution complete
+loop time: 18.68 seconds
+1 Corinthians 14:9   And it's the same for you. If you talk to people in a language they don't understand, how will they know what you mean? You might as well be talking to an empty room.
+1 Corinthians 14:10   There are so many different languages in the world, and all are excellent for those who understand them,
+1 Corinthians 14:11   but to me they mean nothing. I will not understand people who speak those languages, and they will not understand me.
+1 Corinthians 14:12   Since you are so eager to have spiritual gifts, ask God for those that will be of real help to the whole church.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '76ee2d2e-19cb-4b71-b22d-bc0a1736ab7d'}}
+execution complete
+loop time: 19.05 seconds
+1 Corinthians 14:13   So anyone who has the gift of speaking in tongues should pray also for the gift of interpretation in order to tell people plainly what has been said.
+1 Corinthians 14:14   For if I pray in tongues, my spirit is praying, but I don't understand what I am saying.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '36f15d38-c0a8-4b6d-a2b3-238ba1b22240'}}
+execution complete
+loop time: 19.31 seconds
+1 Corinthians 14:15   Well then, what shall I do? I will do both. I will pray in the spirit, and I will pray in words I understand. I will sing in the spirit, and I will sing in words I understand.
+1 Corinthians 14:16   For if you praise God only in the spirit, how can those who don't understand you praise God along with you? How can they join you in giving thanks when they don't understand what you are saying?
+1 Corinthians 14:17   You will be giving thanks very nicely, no doubt, but it doesn't help the other people present.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'cc1f4c22-56c8-470a-b2ce-64259942b09b'}}
+execution complete
+loop time: 19.56 seconds
+1 Corinthians 14:18   I thank God that I speak in tongues more than all of you.
+1 Corinthians 14:19   But in a church meeting I would much rather speak five understandable words that will help others than ten thousand words in an unknown language.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'c5b1444f-4ac4-4a06-8d2c-d53ed6667d34'}}
+execution complete
+loop time: 19.07 seconds
+1 Corinthians 14:20   Dear brothers and sisters, don't be childish in your understanding of these things. Be innocent as babies when it comes to evil, but be mature and wise in understanding matters of this kind.
+1 Corinthians 14:21   It is written in the Scriptures, I will speak to my own people through unknown languages and through the lips of foreigners. But even then, they will not listen to me, says the Lord.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'b6a715b9-bc48-418d-b95c-6d2e32b99a62'}}
+execution complete
+loop time: 20.25 seconds
+1 Corinthians 14:22   So you see that speaking in tongues is a sign, not for believers, but for unbelievers; prophecy, however, is for the benefit of believers, not unbelievers.
+1 Corinthians 14:23   Even so, if unbelievers or people who don't understand these things come into your meeting and hear everyone talking in an unknown language, they will think you are crazy.
+1 Corinthians 14:24   But if all of you are prophesying, and unbelievers or people who don't understand these things come into your meeting, they will be convicted of sin, and they will be condemned by what you say.
+1 Corinthians 14:25   As they listen, their secret thoughts will be laid bare, and they will fall down on their knees and worship God, declaring, God is really here among you.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '31ff73e6-5ec2-4850-b788-3624a70e4da4'}}
+execution complete
+loop time: 20.33 seconds
+1 Corinthians 14:26   Well, my brothers and sisters, let's summarize what I am saying. When you meet, one will sing, another will teach, another will tell some special revelation God has given, one will speak in an unknown language, while another will interpret what is said. But everything that is done must be useful to all and build them up in the Lord.
+1 Corinthians 14:27   No more than two or three should speak in an unknown language. They must speak one at a time, and someone must be ready to interpret what they are saying.
+1 Corinthians 14:28   But if no one is present who can interpret, they must be silent in your church meeting and speak in tongues to God privately.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '3671717a-9c7b-4ae2-aac7-314ee9cc345e'}}
+execution complete
+loop time: 19.25 seconds
+1 Corinthians 14:29   Let two or three prophesy, and let the others evaluate what is said.
+1 Corinthians 14:30   But if someone is prophesying and another person receives a revelation from the Lord, the one who is speaking must stop.
+1 Corinthians 14:31   In this way, all who prophesy will have a turn to speak, one after the other, so that everyone will learn and be encouraged.
+1 Corinthians 14:32   Remember that people who prophesy are in control of their spirit and can wait their turn.
+1 Corinthians 14:33   For God is not a God of disorder but of peace, as in all the other churches.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'df1acf38-3efb-43b6-b515-561d8a35150d'}}
+execution complete
+loop time: 19.26 seconds
+1 Corinthians 14:34   Women should be silent during the church meetings. It is not proper for them to speak. They should be submissive, just as the law says.
+1 Corinthians 14:35   If they have any questions to ask, let them ask their husbands at home, for it is improper for women to speak in church meetings.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '3367be64-283a-4969-8051-1bfd51f3b790'}}
+execution complete
+loop time: 19.45 seconds
+1 Corinthians 14:36   Do you think that the knowledge of God's word begins and ends with you Corinthians? Well, you are mistaken!
+1 Corinthians 14:37   If you claim to be a prophet or think you are very spiritual, you should recognize that what I am saying is a command from the Lord himself.
+1 Corinthians 14:38   But if you do not recognize this, you will not be recognized.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '90a37d06-97f4-461d-8fbd-41404f9a9e24'}}
+execution complete
+loop time: 20.17 seconds
+1 Corinthians 14:39   So, dear brothers and sisters, be eager to prophesy, and don't forbid speaking in tongues.
+1 Corinthians 14:40   But be sure that everything is done properly and in order.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '5518fcc9-40b3-443e-a492-693084a108f9'}}
+execution complete
+loop time: 19.45 seconds
+Philippians 2:13   For God is working in you, giving you the desire to obey him and the power to do what pleases him.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'f8dccd51-9b44-40f0-9da2-d21e57c61c9c'}}
+execution complete
+loop time: 19.84 seconds
+James 1:5   If you need wisdom--if you want to know what God wants you to do--ask him, and he will gladly tell you. He will not resent your asking.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'c57c4fc5-0c37-4a76-bfc3-8703c0bfde05'}}
+execution complete
+loop time: 19.0 seconds
+Jude 1:20   But you, dear friends, must continue to build your lives on the foundation of your holy faith. And continue to pray as you are directed by the Holy Spirit.
+Jude 1:21   Live in such a way that God's love can bless you as you wait for the eternal life that our Lord Jesus Christ in his mercy is going to give you.
+Jude 1:22   Show mercy to those whose faith is wavering.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '1177ab20-281f-4c76-8821-07cccb8d59ab'}}
+execution complete
+loop time: 19.67 seconds
+This script ran for: 1018.86 seconds
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'a77c9a7f-bd7a-49a0-98fe-37799872686a'}}
+execution complete
+VRAM clear completed

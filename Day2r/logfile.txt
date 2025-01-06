@@ -1,0 +1,148 @@
+Isaiah 53:6   All of us have strayed away like sheep. We have left God's paths to follow our own. Yet the LORD laid on him the guilt and sins of us all.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '1d080fa6-4e62-4865-971b-d98844a4d1c4'}}
+execution complete
+loop time: 33.53 seconds
+Matthew 19:24   I say it again--it is easier for a camel to go through the eye of a needle than for a rich person to enter the Kingdom of God!
+Matthew 19:25   The disciples were astounded. Then who in the world can be saved? they asked.
+Matthew 19:26   Jesus looked at them intently and said, Humanly speaking, it is impossible. But with God everything is possible.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '274329f0-3fdc-4c6f-9547-48413ad12834'}}
+execution complete
+loop time: 20.52 seconds
+Mark 1:15   At last the time has come! he announced. The Kingdom of God is near! Turn from your sins and believe this Good News!
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'e009324d-068f-416a-82f0-4739e62e51e3'}}
+execution complete
+loop time: 19.23 seconds
+Luke 7:50   And Jesus said to the woman, Your faith has saved you; go in peace.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '81170816-d520-4d65-a943-5cd800793dd4'}}
+execution complete
+loop time: 18.71 seconds
+John 1:12   But to all who believed him and accepted him, he gave the right to become children of God.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '03291098-d8a8-403d-991c-11c6abe53410'}}
+execution complete
+loop time: 18.56 seconds
+John 3:16   For God so loved the world that he gave his only Son, so that everyone who believes in him will not perish but have eternal life.
+John 3:17   God did not send his Son into the world to condemn it, but to save it.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'fe33c407-11b7-4959-9cf4-d7ab6ebd07c4'}}
+execution complete
+loop time: 19.6 seconds
+John 10:9   Yes, I am the gate. Those who come in through me will be saved. Wherever they go, they will find green pastures.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'f3f93c80-0a74-4c60-b510-f0fa840cbe75'}}
+execution complete
+loop time: 19.64 seconds
+John 17:3   And this is the way to have eternal life--to know you, the only true God, and Jesus Christ, the one you sent to earth.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '0eb2bd50-562a-427f-a681-9d82cca8625c'}}
+execution complete
+loop time: 19.62 seconds
+Acts 2:21   And anyone who calls on the name of the Lord will be saved.'
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'ed0a4d9c-697d-4af1-8301-f6301a9b73f2'}}
+execution complete
+loop time: 19.25 seconds
+Acts 2:38   Peter replied, Each of you must turn from your sins and turn to God, and be baptized in the name of Jesus Christ for the forgiveness of your sins. Then you will receive the gift of the Holy Spirit.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '796d6c5c-1ef2-41c0-8751-d01edcadfbc5'}}
+execution complete
+loop time: 20.47 seconds
+Acts 2:47   all the while praising God and enjoying the goodwill of all the people. And each day the Lord added to their group those who were being saved.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '4d682163-e4d5-4a2f-aef6-5c08ecbcb59b'}}
+execution complete
+loop time: 19.5 seconds
+Acts 4:12   There is salvation in no one else! There is no other name in all of heaven for people to call on to save them.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '73fed2df-4981-4bc8-9f16-162b9582822e'}}
+execution complete
+loop time: 19.07 seconds
+Acts 15:11   We believe that we are all saved the same way, by the special favor of the Lord Jesus.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '77356263-b2b9-4389-b0f5-422ed6829829'}}
+execution complete
+loop time: 18.89 seconds
+Acts 16:30   He brought them out and asked, Sirs, what must I do to be saved?
+Acts 16:31   They replied, Believe on the Lord Jesus and you will be saved, along with your entire household.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'c1f424d3-b4d3-40c0-b141-c3bdd826f33d'}}
+execution complete
+loop time: 19.7 seconds
+Romans 3:23   For all have sinned; all fall short of God's glorious standard.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '423da117-6de1-4080-a322-88ed22ef71a4'}}
+execution complete
+loop time: 19.65 seconds
+Romans 5:8   But God showed his great love for us by sending Christ to die for us while we were still sinners.
+Romans 5:9   And since we have been made right in God's sight by the blood of Christ, he will certainly save us from God's judgment.
+Romans 5:10   For since we were restored to friendship with God by the death of his Son while we were still his enemies, we will certainly be delivered from eternal punishment by his life.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'c2833028-7bf8-4446-9608-0a31abbbaad2'}}
+execution complete
+loop time: 20.8 seconds
+Romans 6:4   For we died and were buried with Christ by baptism. And just as Christ was raised from the dead by the glorious power of the Father, now we also may live new lives.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '53a4b5a8-2f16-4040-8c08-39f20c88906d'}}
+execution complete
+loop time: 19.1 seconds
+Romans 6:23   For the wages of sin is death, but the free gift of God is eternal life through Christ Jesus our Lord.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '124fdaad-f106-40e4-a9e8-68281d391bb2'}}
+execution complete
+loop time: 19.41 seconds
+Romans 10:9   For if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.
+Romans 10:10   For it is by believing in your heart that you are made right with God, and it is by confessing with your mouth that you are saved.
+Romans 10:11   As the Scriptures tell us, Anyone who believes in him will not be disappointed. 
+Romans 10:12   Jew and Gentile are the same in this respect. They all have the same Lord, who generously gives his riches to all who ask for them.
+Romans 10:13   For Anyone who calls on the name of the Lord will be saved.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '266065d5-6d79-44ea-83ae-621c3d5aa0e2'}}
+execution complete
+loop time: 19.26 seconds
+2 Corinthians 5:17   What this means is that those who become Christians become new persons. They are not the same anymore, for the old life is gone. A new life has begun!
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'a499f48e-7b02-4d78-9ef0-eb94555f60ba'}}
+execution complete
+loop time: 19.17 seconds
+Ephesians 2:8   God saved you by his special favor when you believed. And you can't take credit for this; it is a gift from God.
+Ephesians 2:9   Salvation is not a reward for the good things we have done, so none of us can boast about it.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'e747a126-2b53-4ad7-869a-142f708227ac'}}
+execution complete
+loop time: 19.58 seconds
+Titus 3:5   He saved us, not because of the good things we did, but because of his mercy. He washed away our sins and gave us a new life through the Holy Spirit.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'fe7d0ef1-bac6-43ab-846d-6ac796971ee0'}}
+execution complete
+loop time: 19.92 seconds
+Hebrews 9:27   And just as it is destined that each person dies only once and after that comes judgment,
+Hebrews 9:28   so also Christ died only once as a sacrifice to take away the sins of many people. He will come again but not to deal with our sins again. This time he will bring salvation to all those who are eagerly waiting for him.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'c0428454-13ad-4c1d-96ef-f0903a5e65fc'}}
+execution complete
+loop time: 18.71 seconds
+1 Peter 3:18   Christ also suffered when he died for our sins once for all time. He never sinned, but he died for sinners that he might bring us safely home to God. He suffered physical death, but he was raised to life in the Spirit.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'a7cfdead-d2a8-4c89-86ee-c5922fd66186'}}
+execution complete
+loop time: 19.2 seconds
+1 John 1:9   But if we confess our sins to him, he is faithful and just to forgive us and to cleanse us from every wrong.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '7118a389-b859-4f71-9e0f-dcb4f2211566'}}
+execution complete
+loop time: 19.21 seconds
+1 John 5:11   And this is what God has testified: He has given us eternal life, and this life is in his Son.
+1 John 5:12   So whoever has God's Son has life; whoever does not have his Son does not have life.
+1 John 5:13   I write this to you who believe in the Son of God, so that you may know you have eternal life.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'd85eb253-7930-4e82-80ba-105e045f7676'}}
+execution complete
+loop time: 19.31 seconds
+This script ran for: 519.72 seconds
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'b5a6173b-ab4a-4dbd-a2a6-f765e2b19c19'}}
+execution complete
+VRAM clear completed

@@ -1,0 +1,201 @@
+Exodus 23:25   You must serve only the LORD your God. If you do, I will bless you with food and water, and I will keep you healthy.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '01dffd49-a6c6-4492-a830-4c1fbc07bfda'}}
+execution complete
+loop time: 33.22 seconds
+Psalms 107:20   He spoke, and they were healed--snatched from the door of death.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '47879476-1ff6-4ecd-a759-97c6e4d043d6'}}
+execution complete
+loop time: 20.21 seconds
+Isaiah 53:4   Yet it was our weaknesses he carried; it was our sorrows that weighed him down. And we thought his troubles were a punishment from God for his own sins!
+Isaiah 53:5   But he was wounded and crushed for our sins. He was beaten that we might have peace. He was whipped, and we were healed!
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'dce3c4bf-24ed-4f12-9773-b72dcf8b0ba9'}}
+execution complete
+loop time: 20.65 seconds
+Matthew 8:16   That evening many demon-possessed people were brought to Jesus. All the spirits fled when he commanded them to leave; and he healed all the sick.
+Matthew 8:17   This fulfilled the word of the Lord through Isaiah, who said, He took our sicknesses and removed our diseases.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '1facd880-fb6d-43a0-a0fb-f50f8ef09431'}}
+execution complete
+loop time: 20.34 seconds
+Matthew 9:20   a woman who had had a hemorrhage for twelve years came up behind him. She touched the fringe of his robe,
+Matthew 9:21   for she thought, If I can just touch his robe, I will be healed.
+Matthew 9:22   Jesus turned around and said to her, Daughter, be encouraged! Your faith has made you well. And the woman was healed at that moment.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '986cf2bd-870f-4eb3-9d5e-e1937c89110d'}}
+execution complete
+loop time: 20.39 seconds
+Matthew 16:18   Now I say to you that you are Peter, and upon this rock I will build my church, and all the powers of hell will not conquer it.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '82538c29-2041-4b83-b1f7-33f396272b89'}}
+execution complete
+loop time: 20.2 seconds
+Mark 2:8   Jesus knew what they were discussing among themselves, so he said to them, Why do you think this is blasphemy?
+Mark 2:9   Is it easier to say to the paralyzed man, 'Your sins are forgiven' or 'Get up, pick up your mat, and walk'?
+Mark 2:10   I will prove that I, the Son of Man, have the authority on earth to forgive sins. Then Jesus turned to the paralyzed man and said,
+Mark 2:11   Stand up, take your mat, and go on home, because you are healed!
+Mark 2:12   The man jumped up, took the mat, and pushed his way through the stunned onlookers. Then they all praised God. We've never seen anything like this before! they exclaimed.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'ac4c1077-805b-4358-8832-d12358211ec5'}}
+execution complete
+loop time: 20.28 seconds
+Mark 5:1   So they arrived at the other side of the lake, in the land of the Gerasenes.
+Mark 5:2   Just as Jesus was climbing from the boat, a man possessed by an evil spirit ran out from a cemetery to meet him.
+Mark 5:3   This man lived among the tombs and could not be restrained, even with a chain.
+Mark 5:4   Whenever he was put into chains and shackles--as he often was--he snapped the chains from his wrists and smashed the shackles. No one was strong enough to control him.
+Mark 5:5   All day long and throughout the night, he would wander among the tombs and in the hills, screaming and hitting himself with stones.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '2f3542df-4902-47f6-aeb2-fb5d508007d3'}}
+execution complete
+loop time: 20.67 seconds
+Mark 5:6   When Jesus was still some distance away, the man saw him. He ran to meet Jesus and fell down before him.
+Mark 5:7   He gave a terrible scream, shrieking, Why are you bothering me, Jesus, Son of the Most High God? For God's sake, don't torture me!
+Mark 5:8   For Jesus had already said to the spirit, Come out of the man, you evil spirit.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'eacc2683-0867-4276-bda5-e5fbab535121'}}
+execution complete
+loop time: 20.51 seconds
+Mark 5:9   Then Jesus asked, What is your name? And the spirit replied, Legion, because there are many of us here inside this man.
+Mark 5:10   Then the spirits begged him again and again not to send them to some distant place.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '604ffb8c-5021-4211-9753-4b9f78215bbd'}}
+execution complete
+loop time: 20.91 seconds
+Mark 5:11   There happened to be a large herd of pigs feeding on the hillside nearby.
+Mark 5:12   Send us into those pigs, the evil spirits begged.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'd86301ce-27ab-4a2a-a8e5-04b6363c1e84'}}
+execution complete
+loop time: 20.29 seconds
+Mark 5:1   So they arrived at the other side of the lake, in the land of the Gerasenes.
+Mark 5:2   Just as Jesus was climbing from the boat, a man possessed by an evil spirit ran out from a cemetery to meet him.
+Mark 5:3   This man lived among the tombs and could not be restrained, even with a chain.
+Mark 5:4   Whenever he was put into chains and shackles--as he often was--he snapped the chains from his wrists and smashed the shackles. No one was strong enough to control him.
+Mark 5:5   All day long and throughout the night, he would wander among the tombs and in the hills, screaming and hitting himself with stones.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '64d504e0-bb91-4882-a9a5-ebab60a5fbab'}}
+execution complete
+loop time: 20.03 seconds
+Mark 5:13   Jesus gave them permission. So the evil spirits came out of the man and entered the pigs, and the entire herd of two thousand pigs plunged down the steep hillside into the lake, where they drowned.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'c13d02d2-cec7-4412-9e24-ac33b0d53c00'}}
+execution complete
+loop time: 21.56 seconds
+Mark 5:14   The herdsmen fled to the nearby city and the surrounding countryside, spreading the news as they ran. Everyone rushed out to see for themselves.
+Mark 5:15   A crowd soon gathered around Jesus, but they were frightened when they saw the man who had been demon possessed, for he was sitting there fully clothed and perfectly sane.
+Mark 5:16   Those who had seen what happened to the man and to the pigs told everyone about it,
+Mark 5:17   and the crowd began pleading with Jesus to go away and leave them alone.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '75125962-50ef-405e-be95-efb2bc15442d'}}
+execution complete
+loop time: 20.3 seconds
+Mark 5:18   When Jesus got back into the boat, the man who had been demon possessed begged to go, too.
+Mark 5:19   But Jesus said, No, go home to your friends, and tell them what wonderful things the Lord has done for you and how merciful he has been.
+Mark 5:20   So the man started off to visit the Ten Towns of that region and began to tell everyone about the great things Jesus had done for him; and everyone was amazed at what he told them.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'ed84e757-5e09-4d02-8f07-9ac6468952ea'}}
+execution complete
+loop time: 21.85 seconds
+Mark 5:21   When Jesus went back across to the other side of the lake, a large crowd gathered around him on the shore.
+Mark 5:22   A leader of the local synagogue, whose name was Jairus, came and fell down before him,
+Mark 5:23   pleading with him to heal his little daughter. She is about to die, he said in desperation. Please come and place your hands on her; heal her so she can live.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '49744ae4-bc44-4aab-ba32-9df802cc9b97'}}
+execution complete
+loop time: 20.29 seconds
+Mark 5:24   Jesus went with him, and the crowd thronged behind.
+Mark 5:25   And there was a woman in the crowd who had had a hemorrhage for twelve years.
+Mark 5:26   She had suffered a great deal from many doctors through the years and had spent everything she had to pay them, but she had gotten no better. In fact, she was worse.
+Mark 5:27   She had heard about Jesus, so she came up behind him through the crowd and touched the fringe of his robe.
+Mark 5:28   For she thought to herself, If I can just touch his clothing, I will be healed.
+Mark 5:29   Immediately the bleeding stopped, and she could feel that she had been healed!
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'b640493f-5b44-4810-b8f6-c8d30781eda5'}}
+execution complete
+loop time: 20.75 seconds
+Mark 5:30   Jesus realized at once that healing power had gone out from him, so he turned around in the crowd and asked, Who touched my clothes?
+Mark 5:31   His disciples said to him, All this crowd is pressing around you. How can you ask, 'Who touched me?'
+Mark 5:32   But he kept on looking around to see who had done it.
+Mark 5:33   Then the frightened woman, trembling at the realization of what had happened to her, came and fell at his feet and told him what she had done.
+Mark 5:34   And he said to her, Daughter, your faith has made you well. Go in peace. You have been healed.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '2ed6be39-88d5-442e-8546-30d360c8ba41'}}
+execution complete
+loop time: 20.48 seconds
+Mark 5:35   While he was still speaking to her, messengers arrived from Jairus's home with the message, Your daughter is dead. There's no use troubling the Teacher now.
+Mark 5:36   But Jesus ignored their comments and said to Jairus, Don't be afraid. Just trust me.
+Mark 5:37   Then Jesus stopped the crowd and wouldn't let anyone go with him except Peter and James and John.
+Mark 5:38   When they came to the home of the synagogue leader, Jesus saw the commotion and the weeping and wailing.
+Mark 5:39   He went inside and spoke to the people. Why all this weeping and commotion? he asked. The child isn't dead; she is only asleep.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '52a68c03-da56-45c0-b36c-71aaa1591928'}}
+execution complete
+loop time: 21.47 seconds
+Mark 5:40   The crowd laughed at him, but he told them all to go outside. Then he took the girl's father and mother and his three disciples into the room where the girl was lying.
+Mark 5:41   Holding her hand, he said to her, Get up, little girl!
+Mark 5:42   And the girl, who was twelve years old, immediately stood up and walked around! Her parents were absolutely overwhelmed.
+Mark 5:43   Jesus commanded them not to tell anyone what had happened, and he told them to give her something to eat.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '962ed64a-f1d0-439f-bf04-5b303bce9e12'}}
+execution complete
+loop time: 20.9 seconds
+Luke 17:11   As Jesus continued on toward Jerusalem, he reached the border between Galilee and Samaria.
+Luke 17:12   As he entered a village there, ten lepers stood at a distance,
+Luke 17:13   crying out, Jesus, Master, have mercy on us!
+Luke 17:14   He looked at them and said, Go show yourselves to the priests. And as they went, their leprosy disappeared.
+Luke 17:15   One of them, when he saw that he was healed, came back to Jesus, shouting, Praise God, I'm healed!
+Luke 17:16   He fell face down on the ground at Jesus' feet, thanking him for what he had done. This man was a Samaritan.
+Luke 17:17   Jesus asked, Didn't I heal ten men? Where are the other nine?
+Luke 17:18   Does only this foreigner return to give glory to God?
+Luke 17:19   And Jesus said to the man, Stand up and go. Your faith has made you well.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '341cfe90-b0ee-48e9-a36f-0dc979ee68c7'}}
+execution complete
+loop time: 20.96 seconds
+John 9:1   As Jesus was walking along, he saw a man who had been blind from birth.
+John 9:2   Teacher, his disciples asked him, why was this man born blind? Was it a result of his own sins or those of his parents?
+John 9:3   It was not because of his sins or his parents' sins, Jesus answered. He was born blind so the power of God could be seen in him.
+John 9:4   All of us must quickly carry out the tasks assigned us by the one who sent me, because there is little time left before the night falls and all work comes to an end.
+John 9:5   But while I am still here in the world, I am the light of the world.
+John 9:6   Then he spit on the ground, made mud with the saliva, and smoothed the mud over the blind man's eyes.
+John 9:7   He told him, Go and wash in the pool of Siloam (Siloam means Sent). So the man went and washed, and came back seeing!
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '6d6f84f5-f4af-4b14-b19d-2aebf26b85cd'}}
+execution complete
+loop time: 21.47 seconds
+Acts 9:40   But Peter asked them all to leave the room; then he knelt and prayed. Turning to the body he said, Get up, Tabitha. And she opened her eyes! When she saw Peter, she sat up!
+Acts 9:41   He gave her his hand and helped her up. Then he called in the widows and all the believers, and he showed them that she was alive.
+Acts 9:42   The news raced through the whole town, and many believed in the Lord.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'e090daa3-0474-4038-980e-ae3be1b631e6'}}
+execution complete
+loop time: 20.09 seconds
+Acts 10:38   And no doubt you know that God anointed Jesus of Nazareth with the Holy Spirit and with power. Then Jesus went around doing good and healing all who were oppressed by the Devil, for God was with him.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '3475510a-0d1e-4ae9-8a04-f0aea4b811e6'}}
+execution complete
+loop time: 18.84 seconds
+Acts 14:8   While they were at Lystra, Paul and Barnabas came upon a man with crippled feet. He had been that way from birth, so he had never walked.
+Acts 14:9   He was listening as Paul preached, and Paul noticed him and realized he had faith to be healed.
+Acts 14:10   So Paul called to him in a loud voice, Stand up! And the man jumped to his feet and started walking.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '76f088ba-d9e6-44c0-9b06-14fbd7616b4a'}}
+execution complete
+loop time: 19.4 seconds
+James 5:14   Are any among you sick? They should call for the elders of the church and have them pray over them, anointing them with oil in the name of the Lord.
+James 5:15   And their prayer offered in faith will heal the sick, and the Lord will make them well. And anyone who has committed sins will be forgiven.
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': 'e91bc9b8-5616-41c0-a2dd-f9699a01784d'}}
+execution complete
+loop time: 19.24 seconds
+1 Peter 2:24   He personally carried away our sins in his own body on the cross so we can be dead to sin and live for what is right. You have been healed by his wounds!
+received data
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '49bcb5e6-2584-4cba-9e11-664e58f1b75b'}}
+execution complete
+loop time: 19.15 seconds
+This script ran for: 564.59 seconds
+message: {'type': 'executing', 'data': {'node': None, 'prompt_id': '79b48b8f-f3fc-4f2d-9069-a973e192f448'}}
+execution complete
+VRAM clear completed
